@@ -1,6 +1,6 @@
 MIT License
 
-Copyright (c) 2026 NidVibes / www.nidvibes.com / https://github.com/NidVibes
+Copyright (c) 2026 NidAura Autoclicker / www.nidvibes.com / https://github.com/NidVibes
 
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
